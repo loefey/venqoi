@@ -2,7 +2,7 @@
 ![Header](./header.png)
 
 <h1 align="center">venqoi</h1>
-<p align="center">I'm a very big boy that likes food and sometimes I make silly <a href="https://robbed.uk">portfolios</a>.</p>
+<p align="center">I'm a very big boy that likes food and sometimes I make silly <a href="https://venqoi.lol">portfolios</a>.</p>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=venqoi&style=for-the-badge&color=blueviolet" alt="Profile Views">
   </p>
