@@ -1,6 +1,6 @@
 ![Header](./header.png)
 
-<img align="right" src="https://lanyard.cnrad.dev/api/282605485411270657?borderRadius=20px&animated=true&idleMessage=venquissy%20isn%27t%20currently%20doing%20anything" alt="logo" style="float: right;"/>
+<img align="right" src="https://lanyard.cnrad.dev/api/341489231501459469?borderRadius=20px&animated=true&idleMessage=venquissy%20isn%27t%20currently%20doing%20anything" alt="logo" style="float: right;"/>
 <h align="right">
 
 ```yml
